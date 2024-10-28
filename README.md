@@ -1,4 +1,5 @@
 ![Biohumanoid](https://github.com/user-attachments/assets/76a5c38a-78be-4a30-8ce9-27525f426d51)
+![Synthetic Life](https://github.com/user-attachments/assets/88af7496-f38c-4771-9130-e0f320168e6e)
 
 > Create and simulate synthetic life models.
 
