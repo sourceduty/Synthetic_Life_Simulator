@@ -17,6 +17,8 @@ Additionally, the simulator guides users through the developmental stages of the
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Alien Life](https://github.com/sourceduty/Alien_Life)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
