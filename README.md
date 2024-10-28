@@ -9,6 +9,11 @@
 Additionally, the simulator guides users through the developmental stages of these life forms and ecosystems step by step, asking structured, multiple-choice questions to define critical traits and behaviors. It might prompt users to choose how a synthetic organism reproduces—whether through spores, eggs, or a novel method like cloning through external tissues. Or it might ask about the organism's diet, such as if it consumes solar energy, minerals, or other life forms. By logically filling in missing details based on user input, the GPT ensures continuity and realism, providing visual representations using DALL-E 3 when appropriate to enhance the simulation experience.
 
 #
+![Synthetic Life](https://github.com/user-attachments/assets/70105033-68f3-403f-9b9a-d132fcc42baa)
+#
+![Synthetic Life](https://github.com/user-attachments/assets/7782a0d2-61fa-4c42-b449-7c331cb3ebae)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
